@@ -106,6 +106,7 @@ O frontend deve ser desenvolvido obrigatoriamente com:
 - Shadcn UI
 - React Hook Form + Zod (validação)
 - React Query (TanStack Query) para cache, loading states e revalidação
+- Nuqs para lidar com url params
 
 ### Expectativas técnicas
 
